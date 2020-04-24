@@ -7,7 +7,7 @@ this document outlines the process that should be followed in proposing, plannin
 Features and ideas are thrown around in our various discussions all the time. The purpose of defining this process is to define a concrete progression into which we can funnel these ideas so that we can have discussions and make real progress to their implementation and completion.
 
 ## Process
-1. A feature, project, curriculum addition, etc. is discussed and selected for development.
+1. A feature, project, curriculum addition, etc. is discussed and selected for development and is created as an issue on "discussions" for further expansion.
 2. A person or small group (2-3 at most to keep things moving) will "champion" the idea. They will flesh it out and create a proposal using the `sample-proposal` document as a guide. The champion team should be small and in most cases should not expect to do all of the dev work themselves.
 3. Proposal is presented to the team, and iterated on till everybody is happy or project is deemed unneeded/inappropriate for TOP
   - TODO: decide on and implement a concrete process for approval.
