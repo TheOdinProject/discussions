@@ -8,8 +8,9 @@ Features and ideas are thrown around in our various discussions all the time. Th
 
 ## Process
 1. A feature, project, curriculum addition, etc. is discussed and selected for development.
-2. A person or small group (2-3 at most to keep things moving) will "champion" the idea. They will flesh it out and create a proposal using the [sample-proposal](https://github.com/TheOdinProject/discussions/blob/master/proposals/sample-proposal/README.md) document as a guide. The champion team should be small and in most cases should not expect to do all of the dev work themselves.
-3. Proposal is presented to the team, and iterated on until a majority of the team is happy or project is deemed unneeded/inappropriate for TOP
+2. An issue is created in the "discussions" repo for further expansion and discussion.
+3. A person or small group (2-3 at most to keep things moving) will "champion" the idea. They will flesh it out and create a proposal using the [sample-proposal](https://github.com/TheOdinProject/discussions/blob/master/proposals/sample-proposal/README.md) document as a guide. The champion team should be small and in most cases should not expect to do all of the dev work themselves.
+4. Proposal is presented to the team, and iterated on until a majority of the team is happy or project is deemed unneeded/inappropriate for TOP
   - TODO: decide on and implement a concrete process for approval.
 5. Champion or Champion team creates a project-board on Github and project-branch. This team is responsible for creating issues, assigning work, recruiting help, and approving PRs.
 6. Maintainers review the final PR and request changes or merge the final PR.
