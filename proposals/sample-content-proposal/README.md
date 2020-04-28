@@ -18,6 +18,10 @@ Make sure to express the motivation of this proposal in the best way you can so 
 
 Outline of the new content. Doesn't have to be as specific as a list of every lesson or assignment, but should list the topics covered and any major or capstone projects.
 
+## Potential Resources
+
+Need not be a comprehensive list, but if there is one source that will make up most of the content note it here.  Examples include the MDN express tutorial or the Hartl Rails book (rip)
+
 ## Drawbacks
 
 Are there any drawbacks to this proposal? consider the following:
