@@ -37,7 +37,7 @@ find voting comment on that issue.
 
 ## Status
 - [x] Proposed
-- [ ] Accepted
+- [x] Accepted
 - [ ] Planned
 - [ ] In progress - [Link to Project Board](https;//github.com)
 - [ ] Validating
