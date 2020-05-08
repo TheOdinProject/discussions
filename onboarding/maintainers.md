@@ -5,7 +5,7 @@
 ### Maintain Issues
 
 - A maintainer should spend time maintaining the Github
-- As a maintainer, you should use your discretion on which issues *you* should take yourself. Part of your goal, is to increase contrubutions from the entire community
+- As a maintainer, you should use your discretion on which issues *you* should take yourself. Part of your goal, is to increase contributions from the entire community
 - **Delete/Close** irrelevant and unhelpful issues and comments
     - **Explain reasoning for closing issue**
     - Before deletion, ask for more info if issue could be viable 
