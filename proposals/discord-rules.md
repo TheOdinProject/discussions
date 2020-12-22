@@ -26,8 +26,8 @@ Posting small snippets of code is acceptable, but anything longer than a few lin
 **6. Have good etiquette**
 Racist remarks, sexually oriented remarks, and religious persecution will not be tolerated. Any such remarks will result in an immediate ban. This includes doxing. Do not post personal information. Do not post or discuss NSFL/NSFW, illegal, or sexual content.
  
-**7. No political topics**
-This is a very diverse community; there are people from many different ethnic, socioeconomic, and geographic backgrounds. Do not post or discuss any topic that could be perceived as political to anyone; it can be divisive and hinder our ability to empower each other to become developers.
+**7. No political or religious topics**
+This is a very diverse community; there are people from many different ethnic, socioeconomic, and geographic backgrounds. Do not post or discuss any topic that could be perceived as political or religious to anyone; it can be divisive and hinder our ability to empower each other to become developers.
  
 **8. Do not DM people**
 Do not send an unsolicited DM to anyone. Everyone in this community is a volunteer and shares the responsibility to answer questions. It is unfair to expect one person to answer your question. If all questions are public, other people can benefit from learning the answer.
