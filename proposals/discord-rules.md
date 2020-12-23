@@ -37,6 +37,9 @@ Piracy is illegal. Discussion on how to pirate, links to pirated materials, or s
 
 **10. Do not ask for life advice**
 Seeking advice related to the goals of the community should be asked in the relevant channels. If you are seeking advice on relationships, depression, mental illness, or anything else that falls outside of the scope of our server, please seek out the appropriate resource.
+
+**11. Do not dog-pile**
+If somebody is already getting help, do not jump in the middle of the conversation. We know you mean well, but it is overwhelming for the person receiving help to follow multiple conversations. 
  
 **Note:** If you are given a warning by a member of the Core or Maintainers team, please do not take it personally or be argumentative. We do not give warnings lightly; we are dedicated to keeping this community a safe and welcoming place for everyone.
 
