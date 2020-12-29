@@ -40,6 +40,9 @@ Seeking advice related to the goals of the community should be asked in the rele
 
 **11. Do not dog-pile**
 If somebody is already getting help, do not jump in the middle of the conversation. We know you mean well, but it is overwhelming for the person receiving help to follow multiple conversations. 
+
+**12. This community only supports the content in our curriculum**
+This community is run by the same volunteers that wrote and maintain the curriculum. We are liable for any advice that is given in this community, therefore we expect it to stay within the scope of our curriculum. Suggesting alternatives, such as other operating systems, that falls outside of this scope will cause problems that we are not equipped to support.
  
 **Note:** If you are given a warning by a member of the Core or Maintainers team, please do not take it personally or be argumentative. We do not give warnings lightly; we are dedicated to keeping this community a safe and welcoming place for everyone.
 
