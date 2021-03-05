@@ -33,5 +33,5 @@ If somebody is already getting help, do not jump in the middle of the conversati
 **This community only supports the content in our curriculum**
 This community is run by the same volunteers that wrote and maintain the curriculum. All questions and advice should stay within the scope of our curriculum. We are not equipped to support anything that falls outside of this scope.
 
-**Seek out other resources**
-If you are seeking advice on alternative operating systems, homework, personal projects, relationships, depression, mental illness, or anything else that falls outside of the scope of our curriculum, please seek out more equipped resources.
+**Seek out other resources for things outside of our curriculum**
+If you are seeking advice on alternative operating systems, homework, personal projects, relationships, depression, mental illness, or anything else outside the scope of our curriculum, please seek out more equipped resources.
