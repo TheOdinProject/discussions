@@ -27,8 +27,7 @@ Posting small snippets of code is acceptable, but anything longer than a few lin
 Do not send anyone an unsolicited ping or DM. Everyone in this community is a volunteer and shares the responsibility to answer questions. It is unfair to expect specific people to answer your question.
 
 **7. Have good etiquette**
-Do not post personal information. Do not post or discuss NSFL/NSFW, illegal, or sexual content.
-Racist remarks, sexually oriented remarks, and religious persecution will not be tolerated. Any such remarks will result in an immediate ban. This includes doxing. 
+Do not post personal information. Do not post or discuss NSFL/NSFW, illegal, or sexual content. Racist remarks, sexually oriented remarks, and religious persecution will not be tolerated. Any such remarks will result in an immediate ban. This includes doxing.
 
 **8. No political or religious topics**
 This is a diverse community; there are people from many different ethnic, socioeconomic, and geographic backgrounds. Do not post any topic that could be perceived as political or religious because it can be divisive and hinder our ability to help each other.
@@ -37,7 +36,7 @@ This is a diverse community; there are people from many different ethnic, socioe
 Piracy is illegal. Discussion on how to pirate, links to pirated materials, or suggesting someone pirate intellectual property will not be tolerated.
 
 **10. Do not dog-pile**
-If somebody is already getting help, do not jump in the middle of the conversation. We know you mean well, but it is overwhelming for the person receiving help to follow multiple conversations. 
+If somebody is already getting help, do not jump in the middle of the conversation. We know you mean well, but it is overwhelming for the person receiving help to follow multiple conversations.
 
 **11. This community only supports the content in our curriculum**
 This community is run by the same volunteers that wrote and maintain the curriculum. All questions and advice should stay within the scope of our curriculum. We are not equipped to support anything that falls outside of this scope.
