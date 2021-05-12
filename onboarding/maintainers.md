@@ -73,7 +73,7 @@ Being that contributions will vary in substance and frequency, the Core team wil
     - Exercise 'common sense' discretion when doing so
     - Rules are meant to be relaxed
     - Kick clear phishers and spammers immediately
-- **Modify the `loki?` role for new members and rule-breakers** (see: `#i-didnt-read-the-rules`)
+- **Modify the `loki?` and `loki.` role for new members and rule-breakers** (see: `#i-didnt-read-the-rules`)
     - Usually adding the `loki?` role to somebody not paying attention, is enough
     - Abuse of the bot should result in the assignment of the `NOBOT` role
 - **`Delete` messages from all channels.**
